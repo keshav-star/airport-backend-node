@@ -1,0 +1,29 @@
+.admin-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    nav{
+        ul{
+            display: flex;
+            
+        }
+        a{
+            text-decoration: none;
+        }
+        li{
+            font-size: 2rem;
+            list-style: none;
+            color: black;
+            margin: 2rem;
+            padding: 1rem;
+            
+        }
+    }
+}
+.user-page{
+    span{
+        margin: 1rem;
+        
+    }
+}
